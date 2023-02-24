@@ -1,0 +1,18 @@
+body{
+    text-align: center;
+    background-color: black;
+
+}
+
+.clock{
+    text-align: center;
+    margin-top: 20%;
+    margin-left: 40%;
+    border: 1px solid;
+    background-color: aqua;
+    box-shadow: 1PX 2PX 3PX yellow ;
+    color: white;
+    width: 20%;
+    font-size: 75px;
+    padding: 10PX;
+}
